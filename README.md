@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+#Student Attendence
+
+##Screenshots
+
+![Screenshot (66)](https://user-images.githubusercontent.com/84129308/211008970-82ad8001-5dfa-4a5c-a2be-6157278828ac.png)
+![Screenshot (67)](https://user-images.githubusercontent.com/84129308/211008991-b5bb7dbc-de41-4864-99b6-8a0369eacc6b.png)
+![Screenshot 2023-01-06 172224](https://user-images.githubusercontent.com/84129308/211009022-d1e1ba1e-4d72-4c37-8313-976b850eb33d.jpg)
+
+##Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
